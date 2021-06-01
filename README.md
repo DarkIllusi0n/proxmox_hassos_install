@@ -1,4 +1,4 @@
-# New Proxmox VM with Home Assistant
+# New Proxmox VM with Home Assistant on bridge vmbr1.
 
 This script will create a new Proxmox VM with the latest version of Home Assistant. To create a new VM, run the following in a SSH session or the console from Proxmox interface
 
